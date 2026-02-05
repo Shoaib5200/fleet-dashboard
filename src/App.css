@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.app {
+  padding: 20px;
+  font-family: Arial;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
